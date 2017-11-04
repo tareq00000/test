@@ -1,0 +1,26 @@
+Category table
+Partner table
+Product table
+
+
+CATEGORY:
+	1. ID
+	2. CATEGORY_NAME
+
+PARTNER:
+	1. ID
+	2. PARTNER_NAME
+
+PRODUCT:
+	1. ID
+	2. TITLE
+	3. CATEGORY_ID
+	4. PARTNER_ID
+	5. DESCRIPTION
+	6. PUBLISHED
+	7. FEATURED
+	8. PRICE
+	9. DISCOUNT
+	10. FILE
+	11. THUMBNAIL
+	
